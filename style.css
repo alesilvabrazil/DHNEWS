@@ -26,6 +26,7 @@ p {
         text-align: justify;
         width: 100%;
         justify-content:first baseline;
+        opacity: 0.4;
 }
 
 .container{
@@ -42,4 +43,8 @@ p {
 
 p footer{
     text-align: center;
+}
+
+li{
+    opacity: 0.4;
 }
